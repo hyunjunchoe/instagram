@@ -1,7 +1,9 @@
 
-h2{
+.name{
     color: red;
+    font-variant: small-caps;
 }
 .highlight{
     border: solid;
+    font-size: 20px;
 }
